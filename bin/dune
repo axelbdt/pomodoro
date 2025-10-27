@@ -1,0 +1,4 @@
+(executable
+ (public_name pomodoro)
+ (name main)
+ (libraries pomodoro))
