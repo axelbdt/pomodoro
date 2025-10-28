@@ -1,6 +1,0 @@
-# dune init proj pomodoro
-# OCAMLPARAM: unset
-# Shared cache: enabled-except-user-rules
-# Shared cache location: /home/axel/.cache/dune/db
-# Workspace root: /home/axel/dev/pomodoro
-# Auto-detected concurrency: 4
